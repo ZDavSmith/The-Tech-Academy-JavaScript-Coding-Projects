@@ -1,0 +1,29 @@
+.checkoutContainer {
+    display: block;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #000;
+    float: left;
+    margin: 40px 0px 0px 0px;
+    color: rgb(253, 253, 253);
+    background-color: rgb(13, 104, 165);
+}
+
+#Ingredient {
+    display: block;
+    float: left;
+    padding: 0px 0px 0px 20px;
+    text-align: left;
+}
+
+#Price {
+    display: block;
+    float: left;
+    padding: 0px 0px 0px 40px;
+    text-align: left;
+}
+
+#totalPrice {
+    float: right;
+    padding: 0px 100px 0px 0px;
+}

@@ -1,7 +1,6 @@
 //Have two arrays going:
 //1 main array called "Main_Array"
 //And then
-
 function Calc() {
     var ingredientName=""; //This variable is the string that shows what they ordered
     var ingredientPrice="";// Shows the number for the price
